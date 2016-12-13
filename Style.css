@@ -2,7 +2,7 @@
 
 body { 
 	background-color: black;
-	color: gold;
+	color: red;
 }
 
 h1 {
@@ -21,4 +21,14 @@ a {
 
 ul li {
 	list-style-type: none;
+}
+#first {
+	font-size: 25px;
+}
+
+.even {
+	background-color: White;
+}
+#last{
+	font-style:comic;
 }
