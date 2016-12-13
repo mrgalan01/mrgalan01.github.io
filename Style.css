@@ -1,0 +1,24 @@
+/* Practice Style */
+
+body { 
+	background-color: black;
+	color: gold;
+}
+
+h1 {
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+img {
+	width: 100%;
+	height: 55%;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul li {
+	list-style-type: none;
+}
